@@ -1,13 +1,13 @@
 # Việc học lập trình thực sự đã dạy tôi những gì?
 
-Tôi phải thừa nhận điều này. Tôi yêu lập trình. Nhưng tôi không phải lúc nào cũng thế. Sự thực thì tôi chỉ là 1 kẻ sáo rỗng. T bắt đầu thích lập trình chỉ khi tôi bị vướng quá lâu đến nỗi mà  tôi bắt đầu hiểu rõ nó.
+Tôi phải thừa nhận điều này. Tôi yêu lập trình. Nhưng tôi không phải lúc nào cũng thế. Sự thực thì tôi chỉ là 1 kẻ sáo rỗng. T bắt đầu thích lập trình chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi mà  tôi bắt đầu hiểu rõ nó.
 
-Nói 1 cách rõ hơn, lập trình là việc duy nhất mà tôi tốn nhiều thời gian thất bại nhất trong những việc tôi làm. Code hỏng là bình thường, và sửa nó, tìm lỗi, và  xây dựng các phần hoạt động mượt đòi hỏi 1 sự kiên nhẫn, nghiên cứu , tập trung và kiên trì đáng kinh ngạc. Nhưng những bài học bạn học được sẽ đáng để tiếp tục.
+Nói 1 cách rõ hơn, lập trình là việc duy nhất mà tôi tốn nhiều thời gian thất bại nhất trong những việc tôi làm. Code hỏng là bình thường, và sửa nó, tìm lỗi, và  xây dựng các phần hoạt động mượt đòi hỏi 1 sự kiên nhẫn, nghiên cứu , tập trung và kiên trì đáng kinh ngạc. Nhưng những bài học bạn được sẽ đáng để tiếp tục.
 
-Khi chúng ta già hơn, niềm tin sẽ tước bỏ những động lực của chúng ta. Thái độ và kỳ vọng của chúng ta bắt đầu đến giới hạn của nó, thường 1 cách vô thức. Thậm chí ngay cả khi tâm trí chúng ta chấp nhận khoa học thần kinh, thì những niềm tin trong tiềm thức của chúng ta cũng không chấp nhận những tri thức này. sự thật là,  chúng ta cũng không ý thức được những lý do ngang qua tâm trí của chúng ta, về việc tại sao chúng ta lại không tiếp nhận những kiến thức hay kí năng mới.
+Khi chúng ta già hơn, niềm tin sẽ tước bỏ những động lực của chúng ta. Thái độ và kỳ vọng của chúng ta bắt đầu đến giới hạn của nó, thường 1 cách vô thức. Thậm chí ngay cả khi tâm trí chúng ta chấp nhận khoa học thần kinh, thì những niềm tin trong tiềm thức của chúng ta cũng không chấp nhận những tri thức này. sự thật là, chúng ta cũng không ý thức được những lý do ngang qua tâm trí của chúng ta, về việc tại sao chúng ta lại không tiếp nhận những kiến thức hay kí năng mới.
 
 Đây là 1 vài điều bạn sẽ nhận ra:
-- Bạn không thể dạy 1 con chó già thủ thuật mới.
+- Bạn không thể dạy 1 con chó già những trò mới.
 - Chỉ những đứa trẻ mới có thể học những điều mới 1 cách nhanh chóng.
 - Nó thực sự khó khăn.
 - Tôi đã rất ghét trường học/ đại học.
@@ -18,17 +18,17 @@ Khi chúng ta già hơn, niềm tin sẽ tước bỏ những động lực củ
 
 Chỉ có cái cuối là đúng thôi, nhưng bạn cũng không sử dụng nó đâu.
 
-Tôi đã nghĩ rằng bạn bạn cực kỳ thông minh để trở thành 1 lập trình viên hàng năm trời.  Trong nó cứ như là 1 siêu năng lực tri thức. Nhưng chỉ đến khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác đang tự học, như những đứa trẻ,  trong thời kỳ tiền Internet và tôi bắt đầu nghĩ - khoan đã, không phải lúc từ từ nữa rồi. Nếu những người này có thể tự học như những đứa trẻ, khi tất cả những gì họ có là các dự án ở trường và những hướng dẫn cũ kĩ, thì đây không phải là về vấn đề thiên tài bẩm sinh. Đấy là về sự nỗ lực không ngừng nghỉ, và bỏ thời gian
+Tôi đã nghĩ rằng bạn bạn cực kỳ thông minh để trở thành 1 lập trình viên hàng năm trời.  Trong nó cứ như là 1 siêu năng lực tri thức. Nhưng chỉ đến khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác đang tự học, như những đứa trẻ,  trong thời kỳ tiền Internet và tôi bắt đầu nghĩ - khoan đã, không phải lúc từ từ nữa rồi. Nếu những người này có thể tự học như những đứa trẻ, khi tất cả những gì họ có là các dự án ở trường và những hướng dẫn cũ kĩ, thì đây không phải là về vấn đề thiên tài bẩm sinh. Đấy là về sự nỗ lực không ngừng nghỉ, và thời gian bỏ ra.
 
-Tôi bắt đầu nghiên cứu điều này nhiều hơn, và nhận ra rằng có rất nhiều lập trình viên tự học, và trông họ không có vẻ gì là được trời phú gì cả. Như tất cả các kĩ năng khác, ngoại lệ sẽ được sẽ được ban thưởng. Nhưng họ chính là những ngoại lệ. Những người tốt và giỏi  liên tục thực hiện đi thực hiện lại nó cho đến khi họ đủ giỏi để làm bất cứ gì họ muốn.
+Tôi bắt đầu nghiên cứu điều này nhiều hơn, và nhận ra rằng có rất nhiều lập trình viên tự học, và trông họ không có vẻ gì là được trời phú gì cả. Như tất cả các kĩ năng khác, ngoại lệ sẽ được sẽ được ban thưởng. Nhưng họ chính là những ngoại lệ. Những người tốt và giỏi liên tục thực hiện đi thực hiện lại nó cho đến khi họ đủ giỏi để làm bất cứ gì họ muốn.
 
-Tôi bắt đầu nhìn vào 1 ví dụ. Là 1  "luật sư bào chữa", tôi  nói rằng " bạn phải thực sự thông minh để là 1 nhà luật sư". Tôi không đồng ý với điều này. Nếu bạn suy nghĩ về nó, tôi chắc rằng bạn đã gặp những người thông minh và những người không thông minh trong mọi tầng lớp xã hội, và thật ngạc nhiên, là cả trong cùng tầng lớp xã hội với bạn nữa. Mặt khác, 1 vài người mà bạn nghĩ là phải thông minh  lại thực ra là 1 người rất là bình thường.
+Tôi bắt đầu nhìn vào 1 ví dụ. Là 1  "luật sư bào chữa", tôi được nghe rằng " bạn phải thực sự thông minh để là 1 nhà luật sư". Tôi không đồng ý với điều này. Nếu bạn suy nghĩ về nó, tôi chắc rằng bạn đã gặp những người thông minh và những người không thông minh trong mọi tầng lớp xã hội, và thật ngạc nhiên, là cả trong cùng tầng lớp xã hội với bạn nữa. Mặt khác, 1 vài người mà bạn nghĩ là phải thông minh  lại thực ra là 1 người rất là bình thường.
 
  Những người đáng chú ý thường làm những việc không đáng chú ý và những người bình thường lại thường làm những thứ đáng chú ý hơn.
  
 1 vài số liệu tốt nhất trong quá khứ của chúng tôi đã chỉ ra rằng  họ là những người bình thường có những quyết định và lựa chọn phi thường. 
 
-Rõ ràng hơn, niềm tin của tôi có thể sai lầm. Có thể "người thông minh" là 1 khái niệm hạn hẹp, bởi vì nó dẫn đến việc  bạn được sinh ra với nó hay không.  Chịu ảnh hưởng của văn hóa,  có 1 niềm tin rằng trở nên thông minh là  1 biểu hiện bất biến, bẩm sinh, thiên phú và phổ cập. Nhưng thực ra, trở nên thông minh luôn luôn tương đối như kĩ năng, và nó sẽ tỉ lệ thuận. Bạn có thể cải thiện nó, khi đi đúng hướng, với 1 nố lực không ngừng nghỉ.
+Rõ ràng hơn, niềm tin của tôi có thể sai lầm. Có thể "người thông minh" là 1 khái niệm hạn hẹp, bởi vì nó dẫn đến việc  bạn được sinh ra với nó hay không.  Đó là xu hướng của văn hóa,  có 1 niềm tin rằng trở nên thông minh là  1 biểu hiện bất biến, bẩm sinh, thiên phú và phổ cập. Nhưng thực ra, trở nên thông minh luôn luôn tương đối như kĩ năng, và nó sẽ tỉ lệ thuận. Bạn có thể cải thiện nó, khi đi đúng hướng, với 1 nố lực không ngừng nghỉ.
 
 Vì vậy, tôi đã có 1 quan niệm sai lầm. Tôi đã nghỉ rằng bạn  cần  phải sở hữu trí thông minh tuyệt vời để trở thành 1 lập trình viên, như những người khác cho là tôi cần trí thông tinh tuyệt vời để đủ điều kiện trở thành 1 luật sư.
 
@@ -44,7 +44,7 @@ Không. Nó có thể rèn luyện để đạt được. Vì nó luôn luôn t�
 ### Niềm tin sai lầm  #2: Não tôi học không nhanh khi tôi trở nên già đi
 Thực ra nó cũng không đúng lắm. Thực tế là khi bạn già hơn bạn sẽ học được cách để học tốt hơn. Không giống thân thể bạn, tâm trí bạn tại tuổi 75 có thể  lớn hơn so với hồi 25 tuổi. Hỏi Benjanmin Franklin.
 
-Những gì thực sự diễn ra  là những sự tập trung, chú ý, tự tin và kỷ luật của chúng ta sẽ suy giảm và biến mất khi chúng ta già đi,  bằng sự thiếu  các bài tập. Nó không phải là về tuổi tác, là do chúng ta không luyện tập. Chúng ta trở thành những kẻ kém trí tuệ.
+Những gì thực sự diễn ra  là những sự tập trung, chú ý, tự tin và kỷ luật của chúng ta sẽ suy giảm và biến mất khi chúng ta già đi,  bằng sự thiếu  tập luyện. Nó không phải là về tuổi tác, là do chúng ta không luyện tập. Chúng ta trở thành những kẻ kém trí tuệ.
 
 Đa số chúng ta, lần cuối chúng ta thực sự học 1 thứ gì đó là hồi đại học, và đó là rất nhiều năm trước rồi. Chúng ta tiếp tục học những thứ chúng thích học - thói quen, cách sử dụng Facebook, lặn biển Scuba ngoài trời, cách tải những bức ảnh phù hợp lên Instagram - bởi vì chúng ta thấy thích thú. Nhưng vấn đề là chúng ta có xu hướng né tránh "công việc", và vì vậy trở nên thiếu thực hành.
 
@@ -59,9 +59,9 @@ Hãy để tôi nói cho bạn những điều này sai lầm như thế nào.
 
 Đọc lại điều trên 1 lần nữa.
 
-Chúng ta so sánh những suy nghĩ và cảm xúc sâu thẳm của chúng ta với những gì người khác thể hiện ra bên ngoài. Trong 1 thế giới được nhìn qua bộ lọc Instagram, nó sẽ khiến tất cả chúng ta đều cảm thấy yếu kém, béo, xấu, ngu ngốc và nghèo hèn
+Chúng ta so sánh những suy nghĩ và cảm xúc sâu thẳm của chúng ta với những gì người khác thể hiện ra bên ngoài. Trong 1 thế giới được nhìn qua bộ lọc Instagram, nó sẽ khiến tất cả chúng ta đều cảm thấy yếu kém, béo, xấu, ngu ngốc và nghèo.
 
-Sự thực là, niềm tin rằng nó sẽ dễ hơn với người khác là xảo trá, thâm trí gia đình nơi thân thiết nhất của tôi còn cho rằng tôi "có động lực 1 cách tự nhiên". 😉
+Sự thực là, niềm tin rằng nó sẽ dễ hơn với người khác là sai lầm, thậm trí gia đình nơi thân thiết nhất của tôi còn cho rằng tôi "có động lực 1 cách tự nhiên". 😉
 
 Hãy để tôi quên điều này đi. Động lực là kết quả của quá trình học tập của tôi để mà giờ đây, cuối cùng , viết ra blog này. Nó không phải là nguyên nhân. Nó là kết quả.
 
@@ -73,7 +73,7 @@ Tôi không phải lúc nào cũng MUỐN thực hành lập trình, đọc,  c�
 
 ```It’s not your mind … it’s THE mind.```
 
-Và sau đó tôi sẽ thực hiện nó bằng bất cứ cách nào. Đó không phải là động lực. Đó là  ký luật. Động lực là 1 người bạn bất ổn, nó dựa vào bạn có thằng nổi sự cám dỗ hay không. Thay vào đó, kỷ luật không được mang trên mình 1 bộ cánh hôi thối, ngồi ở 1 góc và không nói quá nhiều, nhưng nó xuất hiện mọi lúc, đáng tin cậy, và cung cấp ra của cải.
+Và sau đó tôi sẽ thực hiện nó bằng bất cứ cách nào. Đó không phải là động lực. Đó là  ký luật. Động lực là 1 người bạn bất ổn, nó dựa vào bạn có thằng nổi sự cám dỗ hay không. Thay vào đó, kỷ luật không được mang trên mình 1 bộ cánh bốc mùi, ngồi ở 1 góc và không nói quá nhiều, nhưng nó xuất hiện mọi lúc, đáng tin cậy, và cung cấp ra của cải.
 
 Đó là luật để kiểm soát Niềm tin sai lầm #3 (bạn có thể không bao giờ loại bỏ được nó, vậy hãy kiểm soát nó). Nó không dễ dàng với bất cứ ai. Nó chỉ dễ kiểm soát khi bạn càng luyện tập cách kiểm soát nó. Bạn không bao giờ cảm thấy thích nó, vậy hay làm bằng bất cứ giá nào. Hãy làm gì. Bất cứ cách nào.
 
@@ -92,7 +92,7 @@ Không, sẽ không như thế đâu. Nó sẽ khó hơn bạn kỳ vọng đấ
 
 Đọc câu này 1 lần nữa.
 
-Và nó sẽ lâu hơn nhưng gì bạn kỳ vọng. Và đó là lúc bạn sẽ cảm thấy thất vọng, và trải quả khoảng thời gian bạn cảm thấy ngờ vực và sợ hãi nhiều hơn. Bạn sẽ tìm những cách đạt được thành công nhanh chóng, và những mục tiêu dễ dàng. Nó sẽ đến. Nhưng sau thời điểm bạn tưởng tưởng, và như 1 phần thưởng cho sự bền bỉ trong quá khứ trải qua những phiền muộn, khi đó chúng sẽ không thể được gọi là nhanh chóng và dễ dàng được nữa.
+Và nó sẽ lâu hơn nhưng gì bạn suy tính. Và đó là lúc bạn sẽ cảm thấy thất vọng, và trải quả khoảng thời gian bạn cảm thấy ngờ vực và sợ hãi nhiều hơn. Bạn sẽ tìm những cách đạt được thành công nhanh chóng, và những mục tiêu dễ dàng. Nó sẽ đến. Nhưng sau thời điểm bạn tưởng tưởng, và như 1 phần thưởng cho sự bền bỉ trong quá khứ trải qua những phiền muộn, khi đó chúng sẽ không thể được gọi là nhanh chóng và dễ dàng được nữa.
 
 ### False Expectation #3: Cuộc đời bạn sẽ thay đổi
 Có thể có. Cũng có thể không. Chỉ có 1 thứ chắc chắn sẽ thay đổi. Đó là bạn
